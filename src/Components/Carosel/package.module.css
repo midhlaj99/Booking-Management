@@ -1,0 +1,32 @@
+.package{
+    width: 800px;
+    border: 2px solid#D3D3D3;
+    min-height: 250px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.pic{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px 0px 0px 5px;
+}
+.caption{
+    font-weight: bold;
+    font-size: 30px;
+    color: #1E90FF;
+}
+.type{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+.des{
+    color: 	#708090;
+    font-size: 18px;
+}
+.amt{
+    color: #FF8C00;
+    font-weight: bold;
+    margin-left: 10px;
+    font-size: 20px;
+}

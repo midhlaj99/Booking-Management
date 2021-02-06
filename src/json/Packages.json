@@ -1,0 +1,31 @@
+[
+    {
+       
+        "caption": "Yoga and Pilate Training",
+        "type": "Training-Fiteness",
+        "amount": "$100",
+        "description": "This Yoga and Pilate Training session is designed for all levels of trainees",
+        "image":"https://cdn.pixabay.com/photo/2014/09/11/22/57/peaceful-442070_960_720.jpg",
+        "package_id":0
+        
+    },
+    {
+       
+        "caption": "Pilate Training",
+        "type": "Training-Fiteness",
+        "amount": "$80",
+        "description": "This Yoga and Pilate Training session is designed for all levels of trainees",
+        "image":"https://cdn.pixabay.com/photo/2016/03/29/00/22/meditation-1287207_960_720.jpg",
+        "package_id":1
+
+    },
+    {
+       
+        "caption": "Yoga Training",
+        "type": "Training-Fiteness",
+        "amount": "$80",
+        "description": "This Yoga and Pilate Training session is designed for all levels of trainees",
+        "image":"https://cdn.pixabay.com/photo/2020/03/29/18/33/girl-4981766_960_720.jpg",
+        "package_id":2
+    }
+]

@@ -1,0 +1,34 @@
+.datadiv{
+    width: 800px;
+    min-height: 250px;
+    border-radius: 8px;
+    border: 2px solid #D3D3D3;
+    padding: 16px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+.datadiv:hover{
+    border: 2px solid #6495ED;
+
+}
+.head{
+    color: #FF8C00;
+    font-weight: bold;
+    font-size: 19px;
+}
+.time{
+    color: #C0C0C0;
+}
+.name{
+    color: #1E90FF;
+    font-size: 20px;
+    font-weight: bold;
+}
+.place{
+    color: black;
+    font-weight: bold;   
+}
+.availableat{
+    color:#708090;
+    margin-left: 15px;
+}
